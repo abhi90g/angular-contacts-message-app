@@ -1,6 +1,6 @@
 # angular-contacts-message-app  
 
-Basic Angular 6 app which uses fake json data from https://jsonplaceholder.typicode.com/.  
+Basic Angular 7 app which uses fake json data from https://jsonplaceholder.typicode.com/.  
 This app demonstrates angular component structure, routing, setting up service and angular animations
   
 ## steps to run the app  
