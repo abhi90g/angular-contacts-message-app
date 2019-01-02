@@ -7,7 +7,10 @@ This app demonstrates angular component structure, routing, setting up service a
 <code>git clone https://github.com/abhi90g/angular-contacts-message-app.git</code>   
 <code>npm install </code>  
 <code>cd angular-contacts-message-app</code>  
-<code>ng serve</code>
+<code>ng serve</code>  
+  
+## Live Version
+<a target="_blank" href="https://abhi90g.github.io/Angular-Contacts-app/"> Angular Contacts App </a>  
    
      
      
